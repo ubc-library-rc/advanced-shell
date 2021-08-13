@@ -46,6 +46,9 @@ cd advanced-shell-main
 
 ## Customizing the shell
 
+```bash
+curl https://raw.githubusercontent.com/mrzool/bash-sensible/master/sensible.bash | less
+```
 
 ---
 
@@ -57,7 +60,7 @@ In the intro-shell workshop, we cover some basic ways to get help in the shell, 
 * `whatis`
 * `apropos`
 * `man`
-  * and `man hier`
+  * `man hier`
 
 ---
 
@@ -79,6 +82,7 @@ curl cheat.sh # usage info
 
 ## Breaking down workflows
 
+How do you use the shell? What are the most important parts of your workflow?
 
 ---
 
@@ -86,12 +90,12 @@ curl cheat.sh # usage info
 
 Refresher of basic concepts:
 
-- `>`: Redirect to a file
-- `<`: Take input from a file
-- `|`: Send output to another program
-- `>>`: **append** to an existing file
+- ">": Redirect to a file
+- "<": Take input from a file
+- "|": Send output to another program
+- ">>": **append** to an existing file
 - display output but **also** write it to a file:
-  - example: `ls | tee outfile.txt`
+  - example: "ls | tee outfile.txt"
 
 ---
 
@@ -108,21 +112,21 @@ sort < test.md # Sort the contents of test.md
 
 Other ways of working with files:
 
-- `du` and `df`: show directory and disk usage
-- `tree`: list directory contents in a tree-like format
-- `mc`: (Midnight Commander) visual shell
+- "du" and "df": show directory and disk usage
+- "tree": list directory contents in a tree-like format
+- "mc": (Midnight Commander) visual shell
 
 ---
 
 Midnight Commander basics:
 
-- `F9`: Access menu
-- `Alt+.`: Hide hidden files and directories
-- `F5`: Copy files from one pane to the other
-- `F6`: Rename/move files
-- `F7`: Make new directory
-- `+` and `-` to select files, `*` to invert selection
-- `Alt+C`: Quick change directory
+- "F9": Access menu
+- "Alt+.": Hide hidden files and directories
+- "F5": Copy files from one pane to the other
+- "F6": Rename/move files
+- "F7": Make new directory
+- "+" and "-" to select files, "*" to invert selection
+- "Alt+C": Quick change directory
 
 ---
 
@@ -140,13 +144,13 @@ Source: [Tiger swallowtail](https://commons.wikimedia.org/wiki/File:Tiger_swallo
 
 ## Tools for working with multimedia
 
-- `mplayer`: movie and audio player
-- `ffmpeg`: video converter
-- `imagemagick`: create and edit bitmap images
+- "mplayer": movie and audio player
+- "ffmpeg": video converter
+- "imagemagick": create and edit bitmap images
 
 ---
 
-- `moc`: (Music on Console) terminal music player
+- "moc": (Music on Console) terminal music player
 
 ---
 
