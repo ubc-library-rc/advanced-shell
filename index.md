@@ -19,25 +19,28 @@ At the end of this workshop, you will be able to:
 ## Schedule
 
 | 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 | Customizing your workflow |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
+| 0:05 | Introduction |
+| 0:15 | Customizing the shell |
+| 0:30 | Getting help |
+| 0:45 | Breaking down workflows |
+| 1:00 | Working with filesystems and data |
+| 1:15 | Working with multimedia |
 
 ## Requirements
 
 Participants will need access to a Bash shell environment and some experience with basic shell usage. If you are using the zsh shell, for example, please make sure that you are able to access Bash as well. In addition, the following programs will be used during the workshop, and should be installed in advance if not already present on your system:
 
-- curl
-- wget
-- mc
-- mplayer
-- ffmpeg
-- imagemagick
+- `curl`
+- `wget`
+- `mc`
+- `mplayer`
+- `ffmpeg`
+- `imagemagick`
 
 If possible, these should be installed using the package manager on your system (e.g., using `apt`, `yum`, etc. on Linux, or [Homebrew](https://brew.sh/) on MacOS. Windows users will need to use Cygwin or, if you are using Windows Subsystem for Linux, you can install packages using `apt` as in regular Ubuntu (see instructions [here](https://wiki.ubuntu.com/WSL#Installing_Packages_on_Ubuntu)).
 
+Please also download and unzip the workshop repository file which can be found [here](https://github.com/ubc-library-rc/advanced-shell/archive/refs/heads/main.zip).
+
 ## Resources
 
-* 
+* See the [Resources](resources.md) page
