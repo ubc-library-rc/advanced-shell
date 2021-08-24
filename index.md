@@ -36,6 +36,7 @@ Participants will need access to a Bash shell environment and some experience wi
 - `mplayer`
 - `ffmpeg`
 - `imagemagick`
+- `tmux`
 
 If possible, these should be installed using the package manager on your system (e.g., using `apt`, `yum`, etc. on Linux, or [Homebrew](https://brew.sh/) on MacOS. Windows users will need to use Cygwin or, if you are using Windows Subsystem for Linux, you can install packages using `apt` as in regular Ubuntu (see instructions [here](https://wiki.ubuntu.com/WSL#Installing_Packages_on_Ubuntu)).
 
