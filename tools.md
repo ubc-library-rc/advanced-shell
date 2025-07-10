@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Resources
+title: Tools
 nav_order: 8
 ---
-# Resources
+# Tools
 
-Some additional resources for extended exploration:
+Some additional tools and resources for extended exploration:
 
 ## Customizing the shell
 
